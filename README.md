@@ -1,36 +1,17 @@
-# tdsGA7-q6
-# Employee Salary Distribution Analysis - Beeswarm Plot
+# Employee Salary Distribution Analysis
 
-## Contact Information
-**Email**: 23f3003731@ds.study.iitm.ac.in
+23f3003731@ds.study.iitm.ac.in
 
 ## Project Overview
-This repository contains a professional Beeswarm Plot visualization created for Mayert Group's strategic consulting project. The visualization analyzes employee salary distribution across different departments and experience levels for a Fortune 500 client.
-
-## Visualization Details
-- **Chart Type**: Beeswarm Plot
-- **Tool Used**: RAWGraphs (https://rawgraphs.io/)
-- **Data Structure**: Department, Experience Level, Salary
-- **Purpose**: Compensation analysis and pay equity assessment
-- **Format**: PNG, 512x512 pixels
+This repository contains a Beeswarm Plot visualization analyzing employee salary distribution across departments and experience levels for Mayert Group's consulting project.
 
 ## Files
-- `README.md` - Project documentation and contact information
-- `chart.png` - Professional Beeswarm Plot visualization
+- README.md - Project documentation
+- chart.png - Beeswarm Plot visualization (created with RAWGraphs)
 
-## Business Context
-The visualization is designed for:
-- Executive board presentations
-- Annual report inclusion
-- Strategic planning documentation
-- Pay equity analysis and decision-making
-
-## Data Insights
-The Beeswarm Plot effectively demonstrates:
-- Salary distribution patterns across departments
-- Experience level impact on compensation
-- Department-specific salary ranges
-- Overall compensation structure and equity
-
----
-*Created as part of advanced data visualization coursework focusing on professional business intelligence solutions.*
+## Visualization Details
+- Chart Type: Beeswarm Plot
+- Tool: RAWGraphs
+- Dimensions: 512x512 pixels
+- Data: Department, Experience Level, Salary
+- Purpose: Compensation analysis and pay equity assessment
